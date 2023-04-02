@@ -5,7 +5,9 @@ This is a simple keyboard checker util. When you run the program it will place y
 To use it simply download the .cpp file and compile it using the g++ command line utility.
 
 `g++ main.cpp -lncurses`
+
 Then from there run the compiled code. 
 
 `./a.out`
+
 NOTE: You will need to install ncurses in order to compile the program.
