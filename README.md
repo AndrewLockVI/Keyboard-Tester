@@ -11,3 +11,8 @@ Then from there run the compiled code.
 `./a.out`
 
 NOTE: You will need to install ncurses in order to compile the program.
+
+
+## Usage Screenshot
+
+![image](https://user-images.githubusercontent.com/96272441/229378758-6929e46f-e880-4289-824e-c1177977a8fd.png)
